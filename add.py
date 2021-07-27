@@ -2,4 +2,4 @@ def sum(a, b):
     return a + b
 
 
-print(sum(10, 6))
+print(sum(14, 6))
