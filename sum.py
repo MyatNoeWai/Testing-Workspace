@@ -2,4 +2,4 @@ def sum(a, b):
     return a + b
 
 
-print(sum(20, 20))
+print(sum(40, 20))
